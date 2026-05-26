@@ -1,5 +1,5 @@
 ## Hi, I'm Samraat Samiksh Sen.
-Second-Year Computer Science Undergraduate | Frontend Developer | Creative Director
+Second-Year Computer Science Undergraduate | Aspiring Frontend Developer | Creative Director
 
 I am a developer with a penchant for weaving complex logic into highly interactive, cinematic web experiences. Having explored various facets of creativity—from writing and directing theatrical productions to graphic design and oration—I approach software engineering not simply as a technical discipline, but as a medium for digital storytelling.
 
